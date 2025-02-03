@@ -99,7 +99,7 @@ To extract user information from a resume, various features are analyzed. Firstl
 <p align="center">
   <img src= "https://user-images.githubusercontent.com/71117423/220831728-5f2f66a4-d6ac-4f93-9242-d38797a7f9b3.png">
 </p>
-full data collection zip : [Job data web scrapping ](https://drive.google.com/drive/folders/1LUkeSJayigEfIQebedCYuKezrYrBIbgP?usp=sharing)
+full data collection zip : (https://drive.google.com/drive/folders/1LUkeSJayigEfIQebedCYuKezrYrBIbgP?usp=sharing)
 
 With web scraping restricted on job search engines like Indeed, we turned to Apify to collect relevant job-related data. Utilizing Apify's advanced tools and automation capabilities, we were able to efficiently and accurately extract large volumes of data. This enabled us to provide up-to-date and precise job postings and candidate recommendations to job seekers and recruiters.
 
