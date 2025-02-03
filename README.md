@@ -75,7 +75,7 @@ To extract user information from a resume, various features are analyzed. Firstl
 
 - ## Cloning the Repository :
 ```bash
-  git clone  #Cloning The repo
+  git clone https://github.com/Utkarsh2108/Job-recommendation.git #Cloning The repo
   cd Job-Recomendation
 ```
 
