@@ -21,7 +21,7 @@
 
 <h1 align="center">Problem Statement</h1>
 
-Job seekers and recruiters struggle to find the right match for open job positions, leading to a time-consuming and inefficient recruitment process. TalentHive offers a solution to this problem with its advanced technologies that provide personalized job and candidate recommendations based on qualifications and experience.
+Job seekers and recruiters struggle to find the right match for open job positions, leading to a time-consuming and inefficient recruitment process. app offers a solution to this problem with its advanced technologies that provide personalized job and candidate recommendations based on qualifications and experience.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
